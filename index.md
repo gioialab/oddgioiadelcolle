@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'OPENDATA DAY Gioia del Colle 2017'
 description: null
 image: null
 author: null

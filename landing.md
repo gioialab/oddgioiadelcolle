@@ -13,7 +13,7 @@ nav-menu: true
 </span>
   <header class="major">
 
-# Landing
+# Il Programma
 
 </header>
   <div class="content">
@@ -28,7 +28,7 @@ nav-menu: true
   <section id="one">
   <div class="inner"><header class="major">
 
-## Sed amet aliquam
+## Registrati
 
 </header>
 
@@ -47,7 +47,7 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc r
 <div class="content">
   <div class="inner"><header class="major">
 
-### Orci maecenas
+### Progetto 1
 
 </header>
 
@@ -67,7 +67,7 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc r
   <em></em>
   <div class="inner"><em><header class="major">
 
-### Rhoncus magna
+### Progetto 2
 
 </header>
 
@@ -85,7 +85,7 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc r
 <div class="content">
   <div class="inner"><header class="major">
 
-### Sed nunc ligula
+### Progetto 3
 
 </header>
 
@@ -105,7 +105,7 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc r
   <em></em>
   <div class="inner"><em><header class="major">
 
-## Massa libero
+### Progetto 4
 
 </header>
 
