@@ -7,114 +7,64 @@ nav-menu: true
 ---
 
 <section id="banner" class="style2">
+  
   <div class="inner">
-  <span class="image">
-  <img src="{{ site.baseurl }}/%7B%7B%20page.image%20%7D%7D" alt="">
-</span>
-  <header class="major">
+    
+    <span class="image">
+      <img src="{{ site.baseurl }}/%7B%7B%20page.image%20%7D%7D" alt="">
+    </span>
 
-# Il Programma
+    <header class="major">
 
-</header>
-  <div class="content">
+    <h2>#ODD2017</h2>
 
-{{ page.description }}
+    </header>
 
-</div>
-</div>
+    <div class="content">
+
+    {{ page.description }}
+
+    </div>
+
+  </div>
+
 </section>
 
 <div id="main">
   <section id="one">
-  <div class="inner"><header class="major">
+    <div class="inner">
+      
+      <header class="major">
+        <h3>Registrati</h3>
+      </header>
 
-## Registrati
+      Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.
 
-</header>
+    </div>
+  </section>
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.
-
-</div>
-  <p></p>
-</section>
-  <p>
-</p>
   <section id="two" class="spotlights">
-  <section><a href="generic.html">
-  <img src="assets/images/pic08.jpg" alt="" data-position="center center">
-</a>{:.image}
+    <section>
+      <a href="generic.html">
+        <img src="assets/images/pic08.jpg" alt="" data-position="center center">
+      </a>
 
-<div class="content">
-  <div class="inner"><header class="major">
+      <div class="content">
+        <div class="inner">
+          <header class="major">
 
-### Progetto 1
+          <h3>Programma</h3>
 
-</header>
+          </header>
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+          Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
 
-<em><a href="generic.html">Learn more</a>{:.button}
+          <em>
+            <a href="generic.html">Learn more</a>
+          </em>
+        </div>
 
-</em></div>
-  <em></em>
-</div></section>
-  <em></em>
-  <section>
-  <em><a href="generic.html"><img src="assets/images/pic09.jpg" alt="" data-position="top center"></a>{:.image}
-
-</em>
-  <div class="content">
-  <em></em>
-  <div class="inner"><em><header class="major">
-
-### Progetto 2
-
-</header>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
-
-</em>   <a href="generic.html">Learn more</a>{:.button}
-
-</div>
-</div>
-</section>
-  <section><a href="generic.html">
-  <img src="assets/images/pic10.jpg" alt="" data-position="25% 25%">
-</a>{:.image}
-
-<div class="content">
-  <div class="inner"><header class="major">
-
-### Progetto 3
-
-</header>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
-
-<em><a href="generic.html">Learn more</a>{:.button}
-
-</em></div>
-  <em></em>
-</div></section>
-  <em><p></p></em>
-</section>
-  <em>
-  <p></p>
-</em>
-  <section id="three">
-  <em></em>
-  <div class="inner"><em><header class="major">
-
-### Progetto 4
-
-</header>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
-
-</em>   <a href="generic.html">Get Started</a>{:.button .next}
-
-</div>
-</section>
-  <p>
-</p>
+      </div>
+    </section>
+  </section>
 </div>
