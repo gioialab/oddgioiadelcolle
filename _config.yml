@@ -1,17 +1,17 @@
 # Site settings
-title: ODD 2017
-subtitle: OpenData Day a Gioia del Colle
+title: OPENGIOIA
+subtitle: OpenData Day 2017 a Gioia del Colle
 email: comunegioialive@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Per la Settimana dell'amministrazione aperta<br /> il 4 Marzo 2017 per la prima volta si svolgerà l'OpenData Day 2017.
 baseurl: "/oddgioiadelcolle" # the subpath of your site, e.g. /blog
 url: "https://gioialab.github.io" # the base hostname & protocol for your site
 author: Giuseppe Zileni
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Piazza Regina Margherita
+city: Gioia del Colle
+state: Puglia, Bari
+zip_code: 70023
+country: Italia
+phone: (080) 555-5555
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -21,7 +21,7 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
+gitlab_url: 
 googleplus_url: 
 instagram_url: 
 linkedin_url: 
