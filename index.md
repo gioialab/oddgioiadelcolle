@@ -8,3 +8,5 @@ author: null
 ---
 
 COMING SOON ...
+
+<a href="http://www.eventbrite.com/e/opengioia-tickets-32081347173?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=32081347173" alt="Eventbrite - OpenGioia" /></a>
