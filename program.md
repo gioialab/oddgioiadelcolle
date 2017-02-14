@@ -1,7 +1,7 @@
 ---
 title: Programma
 layout: program
-description: 'Coming soon ...'
+description: 'In occasioone della settimana dell\'amministrazione aperta dal 4 all'11 Marzo <br />Gioia del Colle sarà la sede del primo Open Data Day'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
