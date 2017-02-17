@@ -7,6 +7,14 @@ image: null
 author: null
 ---
 
-COMING SOON ...
+### Programma
+
+* Puglia, dati aperti, trasparenza: a che punto siamo. 
+
+* FOIA: Cosa cambia per un Comune, esperienza del Comune di Gioia del Colle
+
+* Cosa abbiamo fatto finora, lo stato dell’arte.
+
+* Workshops e Hackthons
 
 <a href="http://www.eventbrite.com/e/opengioia-tickets-32081347173?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=32081347173" alt="Eventbrite - OpenGioia" /></a>

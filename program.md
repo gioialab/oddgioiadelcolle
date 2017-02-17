@@ -56,13 +56,53 @@ nav-menu: true
           <h3>Programma</h3>
 
           </header>
-
-          Coming soon ...
-
+          
           <p>
+
+          <h4>Ore 9.30/11..00 - Tavola Rotonda</h4>
+
+          <ul>
+            <li>
+            Puglia, dati aperti, trasparenza: a che punto siamo. 
+            </li>
+
+            <li>
+            FOIA: Cosa cambia per un Comune, esperienza del Comune di Gioia del Colle
+            </li>
+
+            <li>
+              Cosa abbiamo fatto finora, lo stato dell’arte: Intervengono Imprese, rappresentanti del terzo settore e della cittadinanza attiva.
+
+              <p>
+                <h5>ASOC - A Scuola di OpenCoesione</h5>
+                
+              </p>
+            </li>
+
+          </ul>
+
+          <h4>Ore 14.30/11..00 - Workshops e Hackthon</h4>
+
+          <ul>
+
+            <li>
+            Puglia, dati aperti, trasparenza: a che punto siamo. 
+            </li>
+
+            <li>
+            FOIA: Cosa cambia per un Comune, esperienza del Comune di Gioia del Colle
+            </li>
+
+            <li>
+            Cosa abbiamo fatto finora, lo stato dell’arte.
+            </li>
+
+          </ul>
+
           <em>
             <a href="moments.html">Guarda i migliori momenti ...</a>
           </em>
+
           </p>
         </div>
 
