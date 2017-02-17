@@ -106,15 +106,20 @@ nav-menu: true
           <ul>
 
             <li>
-            Come partecipare ad un bando/call sull’opendata e costituire una StartUP 
+            <a href="http://www.oddgioiadelcolle.info/2017/02/02/startup.html">
+            Come partecipare ad un bando/call sull’opendata e costituire una StartUP</a>
             </li>
 
             <li>
+            <a href="http://www.oddgioiadelcolle.info/2017/02/02/mobility.html">
             BOT, OpenData e Mobilità sostenibile
             </li>
+            </a>
 
             <li>
-            Smart communities,network di servizi per la rete urbana e l’agricoltura
+            <a href="http://www.oddgioiadelcolle.info/2017/02/02/eugenius.html">
+            Smart communities,network di servizi per la rete urbana e l’agricoltura.
+            </a>
             </li>
 
           </ul>
