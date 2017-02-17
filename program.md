@@ -44,9 +44,11 @@ nav-menu: true
   </section>
 
   <section id="two" class="spotlights">
+
     <section>
-      <a href="generic.html">
-        <img src="assets/images/pic08.jpg" alt="" data-position="center center">
+
+      <a href="https://twitter.com/i/moments/831184931019694081" target="_blank">
+        <img src="assets/images/manifestooddit17.jpg" alt="" data-position="center center">
       </a>
 
       <div class="content">
@@ -75,7 +77,25 @@ nav-menu: true
 
               <p>
                 <h5>ASOC - A Scuola di OpenCoesione</h5>
-                
+
+                <strong>DepurAzioniamoci</strong><br />
+                Il progetto di OpenCoesione scelto dagli studenti dell Liceo Scientifico Riccio to Canudo  è “ADEGUAMENTO ED ESTENDIMENTO COLLETTORE EMISSARIO IMPIANTO DI DEPURAZIONE” che permette di coinvolgere un gran numero di cittadini poiché il malfunzionamento del depuratore compromette non solo la loro salute, ma anche la flora e la fauna. L’inquinamento inoltre non consente la presenza di uccelli migratori e stanziali che, pur avendo a disposizione la zona di 11 ettari in prossimità del territorio abitato, è significativamente compromessa dalle 11 vasche che contengono acque reflue. Nonostante i controlli e l’applicazione severa del divieto di far confluire i reflui, tra cui quelli della lavorazione del latte nelle fogne, pare che l’odore nauseabondo che tanto caratterizza questa zona sia ancora persistente. 
+
+              </p>
+
+              <p>
+                <h5>Progetto EUGENIUS</h5>
+                <a href="http://www.planetek.it" target="_blank"><strong>Planetek Italia</strong><br /></a>
+                Il progetto EUGENIUS (European Group of Enterprises for a Network of Information using Space), finanziato dalla Comunità Europea nel programma H2020, mira a creare una rete di piccole e medie imprese distribuite in Europa che possano promuovere i servizi geo informativi della rete presso la propria regione di appartenenza.
+                Alcuni dei servizi della rete sono dedicati all’agricoltura di precisione e all’urbano.
+                Planetek fa parte del progetto ed ha come obiettivo la promozione nella Regione Puglia presso potenziali clienti sia pubblici che privati.
+              </p>
+
+              <p>
+              <h5>Trip Friends</h5>
+              <a href="" target="_blank"><strong>Dott.ssa Nunziata Resta, fondatrice e Presidente dell’Associazione culturale “Zeroventuno”</strong><br /></a>
+
+              Realizzare un progetto pilota di Innovazione, Ricerca e Sviluppo rivolto a reti di imprese di accoglienza turistica in Puglia. Trip Friends è un progetto pilota di sperimentazione di soluzioni innovative per il coordinamento/monitoraggio delle attività di accoglienza turistica e per la condivisione dei valori culturali delle aree rurali all’interno e all’esterno dell’UE, a sostegno di una crescita intelligente e inclusiva che coinvolga gli utenti del territorio pugliese (PMI e Cittadinanza attiva) le PA e i laboratori di ricerca, a partire dal Comune di Gioia del Colle.
               </p>
             </li>
 
@@ -86,24 +106,29 @@ nav-menu: true
           <ul>
 
             <li>
-            Puglia, dati aperti, trasparenza: a che punto siamo. 
+            Come partecipare ad un bando/call sull’opendata e costituire una StartUP 
             </li>
 
             <li>
-            FOIA: Cosa cambia per un Comune, esperienza del Comune di Gioia del Colle
+            BOT, OpenData e Mobilità sostenibile
             </li>
 
             <li>
-            Cosa abbiamo fatto finora, lo stato dell’arte.
+            Smart communities,network di servizi per la rete urbana e l’agricoltura
             </li>
 
           </ul>
 
-          <em>
-            <a href="moments.html">Guarda i migliori momenti ...</a>
-          </em>
-
           </p>
+        </div>
+
+        <div>
+
+        </div>
+
+        <div>
+            <a class="twitter-moment" href="https://twitter.com/i/moments/831184931019694081">OpenData Day 2017</a>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
 
       </div>
