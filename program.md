@@ -139,14 +139,4 @@ nav-menu: true
     </section>
   </section>
 
-
-  <section id="one">
-    <div class="inner">
-      
-      <a class="twitter-moment" href="https://twitter.com/i/moments/831184931019694081">OpenData Day 2017</a>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-    </div>
-  </section>
-
 </div>
