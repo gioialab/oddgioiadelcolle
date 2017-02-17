@@ -1,7 +1,7 @@
 ---
 title: Programma
 layout: program
-description: 'In occasioone della settimana della trasparenza dal 4 all'11 Marzo <br />Gioia del Colle sarà la sede del primo Open Data Day'
+description: 'In occassione della settimana della trasparenza Gioia del Colle sarà la sede del primo Open Data Day'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -16,7 +16,7 @@ nav-menu: true
 
     <header class="major">
 
-    <h2>#ODD2017</h2>
+    <h2>#OPENGIOIA</h2>
 
     </header>
 
