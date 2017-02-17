@@ -4,7 +4,7 @@ subtitle: OpenData Day 2017 a Gioia del Colle
 email: comunegioialive@gmail.com
 description: Per la Settimana dell'amministrazione aperta<br /> il 4 Marzo 2017 per la prima volta si svolgerà l'OpenData Day 2017.
 baseurl: "/oddgioiadelcolle" # the subpath of your site, e.g. /blog
-url: "https://gioialab.github.io" # the base hostname & protocol for your site
+url: "http://www.oddgioiadelcolle.info" # the base hostname & protocol for your site
 author: Giuseppe Zileni
 street_address: Piazza Regina Margherita
 city: Gioia del Colle
