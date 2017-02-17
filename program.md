@@ -51,6 +51,9 @@ nav-menu: true
         <img src="assets/images/manifestooddit17_small.jpg" alt="" data-position="center center">
       </a>
 
+      <a class="twitter-moment" href="https://twitter.com/i/moments/831184931019694081">OpenData Day 2017</a>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
       <div class="content">
         <div class="inner">
           <header class="major">
@@ -101,6 +104,9 @@ nav-menu: true
 
           </ul>
 
+          </p>
+          <p>
+
           <h4>Ore 14.30/11..00 - Workshops e Hackthon</h4>
 
           <ul>
@@ -125,15 +131,6 @@ nav-menu: true
           </ul>
 
           </p>
-        </div>
-
-        <div>
-
-        </div>
-
-        <div>
-            <a class="twitter-moment" href="https://twitter.com/i/moments/831184931019694081">OpenData Day 2017</a>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
 
       </div>
