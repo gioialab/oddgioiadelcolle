@@ -51,9 +51,6 @@ nav-menu: true
         <img src="assets/images/manifestooddit17_small.jpg" alt="" data-position="center center">
       </a>
 
-      <a class="twitter-moment" href="https://twitter.com/i/moments/831184931019694081">OpenData Day 2017</a>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
       <div class="content">
         <div class="inner">
           <header class="major">
@@ -96,7 +93,7 @@ nav-menu: true
 
               <p>
               <h5>Trip Friends</h5>
-              <a href="" target="_blank"><strong>Dott.ssa Nunziata Resta, fondatrice e Presidente dell’Associazione culturale “Zeroventuno”</strong><br /></a>
+              <a href="http://www.zeroventuno.com" target="_blank"><strong>Dott.ssa Nunziata Resta, fondatrice e Presidente dell’Associazione culturale “Zeroventuno”</strong><br /></a>
 
               Realizzare un progetto pilota di Innovazione, Ricerca e Sviluppo rivolto a reti di imprese di accoglienza turistica in Puglia. Trip Friends è un progetto pilota di sperimentazione di soluzioni innovative per il coordinamento/monitoraggio delle attività di accoglienza turistica e per la condivisione dei valori culturali delle aree rurali all’interno e all’esterno dell’UE, a sostegno di una crescita intelligente e inclusiva che coinvolga gli utenti del territorio pugliese (PMI e Cittadinanza attiva) le PA e i laboratori di ricerca, a partire dal Comune di Gioia del Colle.
               </p>
@@ -135,5 +132,9 @@ nav-menu: true
 
       </div>
     </section>
+  </section>
+  <section id="one">
+    <a class="twitter-moment" href="https://twitter.com/i/moments/831184931019694081">OpenData Day 2017</a>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </section>
 </div>
