@@ -111,6 +111,10 @@ nav-menu: true
 
           <h4>Ore 14.30/11..00 - Workshops e Hackthon</h4>
 
+          <em>
+          Ciascun partecipante dovrà portare con sè il proprio portatile.
+          </em>
+
           <ul>
 
             <li>
