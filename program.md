@@ -48,7 +48,7 @@ nav-menu: true
     <section>
 
       <a href="https://twitter.com/i/moments/831184931019694081" target="_blank">
-        <img src="assets/images/manifestooddit17.jpg" alt="" data-position="center center">
+        <img src="assets/images/manifestooddit17_small.jpg" alt="" data-position="center center">
       </a>
 
       <div class="content">
