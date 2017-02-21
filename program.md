@@ -86,8 +86,12 @@ nav-menu: true
           </ul>
 
           <p>
+            <h4>Lunch Break</h4>
+          </p>
 
-            <h4>Ore 14.30/11..00 - Workshops e Hackthon</h4>
+          <p>
+
+            <h4>Ore 14.30/17.00 - B2B, Formazione e Hackathon</h4>
 
             <em>
             Ciascun partecipante dovrà portare con sè il proprio portatile.
