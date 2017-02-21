@@ -68,7 +68,6 @@ nav-menu: true
           FOIA: Cosa cambia per un Comune, esperienza del Comune di Gioia del Colle.<br /><br />
           Cosa abbiamo fatto finora, lo stato dell’arte: Intervengono Imprese, rappresentanti del terzo settore e della cittadinanza attiva.<br />
           </strong>
-
           
           <ul>
               <li>
@@ -97,16 +96,18 @@ nav-menu: true
           <ul>
 
             <li>
-              <a href="http://www.oddgioiadelcolle.info/2017/02/02/startup.html">
-              Come partecipare ad un bando/call sull’opendata e costituire una StartUP</a>
+              <strong>Sala Javarone - ore 14.30</strong><br />
+              Come partecipare ad un bando/call sull’opendata e costituire una StartUP.
             </li>
 
             <li>
+              <strong>Chiostro Comunale - ore 14.30</strong><br />
               <a href="http://www.oddgioiadelcolle.info/2017/02/02/mobility.html">
               BOT, OpenData e Mobilità sostenibile</a>
             </li>
 
             <li>
+              <strong>Sala De Deo - ore 14.30</strong><br />
               <a href="http://www.oddgioiadelcolle.info/2017/02/02/eugenius.html">
               Smart communities,network di servizi per la rete urbana e l’agricoltura.
               </a>
