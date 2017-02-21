@@ -7,7 +7,7 @@ image: assets/images/asoc/depura2.jpg
 
 Con l’avvento del nuovo anno scolastico, noi ragazzi delle classi quarte del [IISS ‘R. Canudo’ di Gioia del Colle](http://www.canudo.gov.it) abbiamo deciso di mettere in gioco le nostre capacità partecipando al progetto “Open Coesione”. Il progetto è finalizzato allo sviluppo di competenze e di abilità che si riveleranno fondamentali in un futuro ambito lavorativo; tra queste la capacità di lavorare in gruppo, dunque di confrontarsi costruttivamente al fine di raggiungere un obbiettivo comune. Per questa ragione abbiamo dedicato il primo incontro alla condivisone delle nostre aspettative, competenze e ambizioni. In questo modo si è formato fin da subito un gruppo coeso e legato dalla volontà di dare un contributo allo sviluppo del nostro territorio.
 
-<span class="image fit"><img src="assets/images/depurazioniamoci_small.jpg" alt="" /></span>
+<span class="image fit"><img src="{{ site.url }}/assets/images/depurazioniamoci_small.jpg" alt="" /></span>
 
 Infatti, ci siamo subito adoperati per trovare sul sito di Open Coesione un progetto sul quale incentrare il nostro lavoro. Per lavorare in maniera più produttiva abbiamo formato dei gruppi ognuno dei quali ha scelto di approfondire e analizzare un progetto relativo al territorio di Gioia del Colle. Successivamente il rappresentante di ogni gruppo ha presentato il progetto alla classe, al fine di operare una scelta condivisa.
 
