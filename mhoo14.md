@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Mhoo 2014
-description: Ipsum dolor sit amet
+title: MHOO
+description: Hackathon sulla mobilità sostenibile
 image: assets/images/mhoo.jpg
+nav-menu: true
 ---
 
 <a class="twitter-moment" href="https://twitter.com/i/moments/826349767873720320">MHOO 2014</a>
