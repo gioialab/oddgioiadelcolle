@@ -6,3 +6,11 @@ image: assets/images/parking.jpg
 ---
 
 ## Chiostro Comunale - ore 14.30
+
+<a href="https://gioialab.github.io/openbus-iis" target="_blank">
+<span class="image fit"><img src="{{ site.url }}/img/openbus-banner.jpg" alt="" /></span>
+</a>
+
+<a href="https://gioialab.github.io/openpark-canudo" target="_blank">
+<span class="image fit"><img src="{{ site.url }}/img/openpark-banner.jpg" alt="" /></span>
+</a>
