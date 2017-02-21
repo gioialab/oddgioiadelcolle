@@ -2,7 +2,7 @@
 layout: post
 title: Programma del Pomeriggio
 description: Sessioni pomeridiane di OPENGIOIA
-image: assets/images/mhoo.jpg
+image: assets/images/workshops.jpg
 nav-menu: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: MHOO
 description: Hackathon sulla mobilità sostenibile
 image: assets/images/mhoo.jpg

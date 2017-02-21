@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Dove Siamo
 description: Dove siamo 
 image: assets/images/banner.jpg
