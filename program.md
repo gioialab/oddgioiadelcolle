@@ -72,16 +72,18 @@ nav-menu: true
           
           <ul>
               <li>
-                ASOC - A Scuola di OpenCoesione con IISS Liceo Scientifico Ricciotto Canudo DepurAzioniamoci
+                <a href="http://www.oddgioiadelcolle.info/2017/02/21/depurazioniamoci.html">
+                ASOC - A Scuola di OpenCoesione con IISS Liceo Scientifico Ricciotto Canudo DepurAzioniamoci</a>
               </li>
               <li>
-                ASOC - A Scuola di OpenCoesione con IIS Da Vinci-Galileo con L’ISOLA CHE….SARA
+                <a href="http://www.oddgioiadelcolle.info/2017/02/21/isola.html">
+                ASOC - A Scuola di OpenCoesione con IIS Da Vinci-Galileo con L’ISOLA CHE….SARA</a>
               </li>
               <li>
                   Progetto EUGENIUS
               </li>
-              <li>Trip Friends</li>
-              <li>WikiGioiadelColle</li>
+              <li><a href="http://www.oddgioiadelcolle.info/2017/02/21/friends.html">Trip Friends</a></li>
+              <li><a href="http://www.oddgioiadelcolle.info/2017/02/21/wikigioiadelcolle.html">WikiGioiadelColle</a></li>
           </ul>
 
           <p>
