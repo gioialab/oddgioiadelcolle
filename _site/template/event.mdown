@@ -39,6 +39,8 @@
 		    
 		
 		    
+		
+		    
 		        <li><a href="http://localhost:4000/">Home</a></li>
 	    	
 		
@@ -62,6 +64,10 @@
 		
 		    
 		        <li><a href="http://localhost:4000/template/event.mdown">ODD2017</a></li>
+		    
+		
+		    
+		        <li><a href="http://localhost:4000/hackathon.html">Programma del Pomeriggio</a></li>
 		    
 		
 		    
