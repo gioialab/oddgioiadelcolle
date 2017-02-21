@@ -5,4 +5,4 @@ description: Utilizzare le mappe per trovare un parcheggio in città, prendere u
 image: assets/images/parking.jpg
 ---
 
-Coming soon ...
+## Chiostro Comunale - ore 14.30
