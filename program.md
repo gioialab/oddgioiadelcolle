@@ -69,6 +69,7 @@ nav-menu: true
           Cosa abbiamo fatto finora, lo stato dell’arte<br />
           </strong>
           
+          <p>
           <h5>A Scuola di Open Coesione</h5>
           <iframe src="https://player.vimeo.com/video/187985069" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -81,13 +82,11 @@ nav-menu: true
                 <a href="http://www.oddgioiadelcolle.info/2017/02/21/isola.html">
                 IIS Da Vinci-Galileo con L’ISOLA CHE….SARA</a>
               </li>
-              <li>
-                  <a href="http://www.oddgioiadelcolle.info/2017/02/02/eugenius.html">Progetto EUGENIUS</a>
-              </li>
-              <li><a href="http://www.oddgioiadelcolle.info/2017/02/21/friends.html">Trip Friends</a></li>
-              <li><a href="http://www.oddgioiadelcolle.info/2017/02/21/wikigioiadelcolle.html">WikiGioiadelColle</a></li>
+  
           </ul>
+          </p>
 
+          <p>
           <h5>Imprese, rappresentanti del terzo settore e della cittadinanza attiva</h5>
 
           <ul>
@@ -101,6 +100,7 @@ nav-menu: true
                 <a href="http://www.oddgioiadelcolle.info/2017/02/21/wikigioiadelcolle.html">WikiGioiadelColle</a>
               </li>
           </ul>
+          </p>
 
           <p>
             <h4>Lunch Break</h4>
