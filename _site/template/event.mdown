@@ -56,6 +56,8 @@
 		
 		    
 		
+		    
+		
 
 		
 		    
@@ -70,6 +72,10 @@
 		        <li><a href="http://localhost:4000/hackathon.html">Programma del Pomeriggio</a></li>
 		    
 		
+		    
+		
+		    
+		        <li><a href="http://localhost:4000/live.html">Live!</a></li>
 		    
 		
 		    
@@ -114,6 +120,9 @@
 		<header class="major">
 			<h1>ODD2017</h1>
 		</header>
+		<p>
+			<a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-text="#opengioia #oddit17" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+		</p>
 		<span class="image main"><img src="/assets/images/pic11.jpg" alt="" /></span>
 		<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
 
@@ -121,6 +130,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum fac
 
 Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
 </p>
+		
 	</div>
 </section>
 
@@ -171,10 +181,14 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venen
 				
 				
 				
+				<li><a href="https://www.facebook.com/ComuneDiGioiaDelColle/" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
 				
 				
 				
 				
+				
+				
+				<li><a href="https://github.com/gioialab" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
 				
 				
 				

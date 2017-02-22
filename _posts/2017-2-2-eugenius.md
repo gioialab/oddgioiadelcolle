@@ -7,7 +7,9 @@ image: assets/images/agriculture.jpg
 
 ## Sala Javarone - ore 14.30
 
-<span class="image fit"><img src="{{ site.url }}/img/planetek_logo.jpg" alt="" /></span>
+<a href="http://www.planetek.it" target="_blank">
+<span class="image fit"><img width="50%" src="{{ site.url }}/img/planetek_logo2.png" alt="" /></span>
+</a>
 
 Il progetto EUGENIUS (European Group of Enterprises for a Network of Information using Space), finanziato dalla Comunità Europea nel programma H2020, mira a creare una rete di piccole e medie imprese distribuite in Europa che possano promuovere i servizi geo informativi della rete presso la propria regione di appartenenza.
 
