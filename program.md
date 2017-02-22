@@ -66,23 +66,40 @@ nav-menu: true
           <strong>
           Puglia, dati aperti, trasparenza: a che punto siamo.<br /><br />
           FOIA: Cosa cambia per un Comune, esperienza del Comune di Gioia del Colle.<br /><br />
-          Cosa abbiamo fatto finora, lo stato dell’arte: Intervengono Imprese, rappresentanti del terzo settore e della cittadinanza attiva.<br />
+          Cosa abbiamo fatto finora, lo stato dell’arte<br />
           </strong>
           
+          <h5>A Scuola di Open Coesione</h5>
+          <iframe src="https://player.vimeo.com/video/187985069" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
           <ul>
               <li>
                 <a href="http://www.oddgioiadelcolle.info/2017/02/21/depurazioniamoci.html">
-                ASOC - A Scuola di OpenCoesione con IISS Liceo Scientifico Ricciotto Canudo DepurAzioniamoci</a>
+                IISS Liceo Scientifico Ricciotto Canudo DepurAzioniamoci</a>
               </li>
               <li>
                 <a href="http://www.oddgioiadelcolle.info/2017/02/21/isola.html">
-                ASOC - A Scuola di OpenCoesione con IIS Da Vinci-Galileo con L’ISOLA CHE….SARA</a>
+                IIS Da Vinci-Galileo con L’ISOLA CHE….SARA</a>
               </li>
               <li>
                   <a href="http://www.oddgioiadelcolle.info/2017/02/02/eugenius.html">Progetto EUGENIUS</a>
               </li>
               <li><a href="http://www.oddgioiadelcolle.info/2017/02/21/friends.html">Trip Friends</a></li>
               <li><a href="http://www.oddgioiadelcolle.info/2017/02/21/wikigioiadelcolle.html">WikiGioiadelColle</a></li>
+          </ul>
+
+          <h5>Imprese, rappresentanti del terzo settore e della cittadinanza attiva</h5>
+
+          <ul>
+              <li>
+                <a href="http://www.oddgioiadelcolle.info/2017/02/02/eugenius.html">Progetto EUGENIUS</a>
+              </li>
+              <li>
+                <a href="http://www.oddgioiadelcolle.info/2017/02/21/friends.html">Trip Friends</a>
+              </li>
+              <li>
+                <a href="http://www.oddgioiadelcolle.info/2017/02/21/wikigioiadelcolle.html">WikiGioiadelColle</a>
+              </li>
           </ul>
 
           <p>
