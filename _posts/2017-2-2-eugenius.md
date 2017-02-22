@@ -11,7 +11,7 @@ image: assets/images/agriculture.jpg
 <span class="image fit"><img width="30%" src="{{ site.url }}/img/planetek_logo2.png" alt="" /></span>
 </a>
 
-Il progetto EUGENIUS (European Group of Enterprises for a Network of Information using Space), finanziato dalla Comunità Europea nel programma H2020, mira a creare una rete di piccole e medie imprese distribuite in Europa che possano promuovere i servizi geo informativi della rete presso la propria regione di appartenenza.
+Il progetto EUGENIUS (European Group of Enterprises for a Network of Information using Space) della [Planetek Italia](http://www.planetek.it), finanziato dalla Comunità Europea nel programma H2020, mira a creare una rete di piccole e medie imprese distribuite in Europa che possano promuovere i servizi geo informativi della rete presso la propria regione di appartenenza.
 
 Alcuni dei servizi della rete sono dedicati all’agricoltura di precisione e all’urbano.
 
