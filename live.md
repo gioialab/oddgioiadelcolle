@@ -20,10 +20,7 @@ nav-menu: true
 </p>
 
 	<div class="row">
-		<div class="6u 12u$(small)">
-			<a class="twitter-timeline" href="https://twitter.com/hashtag/oddit17" data-widget-id="834347163018788864">Tweet riguardo #oddit17</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-		</div>
-		<div class="6u$ 12u$(small)">
+		<div class="12u$ 12u$(small)">
 			<a class="twitter-moment" href="https://twitter.com/i/moments/831184931019694081">#OPENGIOIA</a>
 			<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 		</div>
