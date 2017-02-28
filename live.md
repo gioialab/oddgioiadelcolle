@@ -14,9 +14,9 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Facebook Live!</h2>
+<h2 id="content">Twitter Live!</h2>
 <p>
-
+	<script>window.twttr=function(t,e,r){var n,i=t.getElementsByTagName(e)[0],w=window.twttr||{};return t.getElementById(r)?w:(n=t.createElement(e),n.id=r,n.src="https://platform.twitter.com/widgets.js",i.parentNode.insertBefore(n,i),w._e=[],w.ready=function(t){w._e.push(t)},w)}(document,"script","twitter-wjs")</script><a href="https://www.periscope.tv/gzileni" class="periscope-on-air" data-size="large">@gzileni</a>
 </p>
 
 	<div class="row">
