@@ -35,6 +35,9 @@ nav-menu: true
       <span class="image fit">
       <img src="assets/images/manifestooddit17_small.jpg" alt="" data-position="center center" />
       </span>
+      <a class="twitter-timeline"  href="https://twitter.com/hashtag/oddit17" data-widget-id="834347163018788864">Tweet riguardo #oddit17</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          
     </div>
 
     <div class="6u 12u$(small)">
